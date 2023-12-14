@@ -1,0 +1,482 @@
+Titre original,Note_presse,Note_spectateur,id_film_ac,Box office,budget,visa,date,duree
+The Invisible Man,"3,8","3,6",129473,64 310 490,-,152605,26 février 2020,2h 05min
+Tenet,"3,6","3,7",251315,55 100 000,-,153137,26 août 2020,2h 30min
+The Hunt,"3,2","3,0",263711,5 304 455,-,153109,22 juin 2020,1h 31min
+The Gentlemen,"3,5","4,1",264538,26 887 472,-,152068,5 février 2020,1h 53min
+Soul,"4,3","4,2",251354,None,-,-,25 décembre 2020,1h 40min
+The Mauritanian,"3,8","4,2",278650,331 109,-,154502,14 juillet 2021,2h 10min
+The Call of the Wild,"3,2","3,7",259759,62 092 631,-,152374,19 février 2020,1h 40min
+Just Mercy,"3,0","4,1",239735,27 054 597,-,152118,29 janvier 2020,2h 17min
+Richard Jewell,"4,0","4,1",226927,16 164 327,-,152174,19 février 2020,2h 09min
+The Rental,"2,3","2,0",272483,74 404,-,153354,19 août 2020,1h 28min
+Come Play,"2,7",--,286109,9 364 580,-,-,24 août 2021,1h 41min
+Mank,"4,4","3,4",275554,None,-,-,4 décembre 2020,2h 12min
+Happiest Season,"3,1",--,264297,None,-,-,16 décembre 2020,1h 42min
+Run,"3,4",--,265479,None,-,-,18 août 2021,1h 29min
+Legacy,"3,0",--,287526,None,-,-,26 octobre 2023,1h 38min
+Mulan,"2,6","2,6",236613,None,-,152719,30 novembre 2020,1h 55min
+Greyhound,"2,7","3,6",250108,None,-,-,10 juillet 2020,1h 31min
+Palm Springs,"3,8","3,9",272475,None,-,-,12 février 2021,1h 30min
+Promising Young Woman,"3,3","3,7",273120,4 360 870,-,154871,26 mai 2021,1h 48min
+The Trial of the Chicago 7,"4,4","4,2",130085,None,-,-,16 octobre 2020,2h 09min
+Roald Dahl’s The Witches,"3,1","2,4",265585,None,-,153826,16 mars 2021,1h 45min
+Extraction,"2,9","3,5",267389,None,-,-,24 avril 2020,1h 56min
+Onward,"3,6","3,9",251353,60 360 639,-,152531,4 mars 2020,1h 42min
+Enola Holmes,"3,3","3,3",261721,None,-,-,23 septembre 2021,2h 03min
+The Old Guard,"2,5","3,2",266487,None,-,-,11 juillet 2020,1h 58min
+Nomadland,"4,1","3,9",271687,1 480 000,-,154180,9 juin 2021,1h 48min
+Harley Quinn: Birds of Prey,"2,5","2,7",264177,82 538 376,-,152348,5 février 2020,1h 49min
+Ava,"1,8","2,2",266638,None,-,-,1 décembre 2020,1h 36min
+The Devil All The Time,"3,5","3,7",262861,None,-,-,21 septembre 2020,2h 18min
+Becky,"2,4",--,274180,None,-,-,24 mars 2021,1h 34min
+After We Collided,"2,2",--,274369,420 000,-,-,22 décembre 2020,1h 46min
+Wolfwalkers,"4,2","4,3",254359,185 852,-,149913,20 octobre 2021,1h 43min
+Extinct,"2,9","2,0",260397,424 699,-,-,26 mai 2021,1h 24min
+Dolittle,"2,2","2,9",254755,70 314 035,"$175,000,000",152429,5 février 2020,1h 42min
+News of The World,"3,4","3,7",256220,10 356 925,-,-,12 février 2021,1h 59min
+"Mario Puzo’s The Godfather, CODA: The Death Of Michael Corleone","4,2",--,287113,None,-,-,7 décembre 2020,2h 38min
+You Should Have Left,"2,1",--,263671,None,-,-,21 octobre 2020,1h 33min
+Dark Web: Cicada 3301,"2,0",--,289548,None,-,-,12 août 2021,1h 45min
+Wonder Woman 1984,"2,1","2,1",256588,43 600 000,-,153429,3 mars 2021,2h 31min
+Sonic the Hedgehog,"2,0","2,7",229574,145 753 912,"$90,000,000",151901,12 février 2020,1h 39min
+Holly & Ivy,"3,1",--,298390,None,-,-,30 novembre 2021,1h 25min
+The Empty Man,"4,0","2,7",250838,2 268 677,-,-,26 juin 2022,2h 17min
+Minions: The Rise of Gru,"3,2","3,5",248481,365 567 535,-,-,6 juillet 2022,1h 28min
+The Banker,"4,1",--,268529,None,-,-,20 mars 2020,2h 00min
+Fatman,"2,2",--,274090,None,-,-,15 décembre 2020,1h 40min
+Life in a Year,"3,6",--,254508,None,-,-,28 janvier 2020,1h 47min
+Unhinged,"3,8","2,9",274205,19 353 385,-,153344,19 août 2020,1h 30min
+The Christmas Chronicles: Part Two,"2,9",--,276269,None,-,-,25 novembre 2020,1h 52min
+The Green Knight,"3,6","2,9",269316,6 784 000,-,-,3 janvier 2022,2h 10min
+Once Upon a Main Street,"2,9",--,297352,None,-,-,2 novembre 2021,1h 27min
+Holidate,"2,9",--,272209,None,-,-,28 octobre 2020,1h 43min
+I’m Thinking of Ending Things,"3,8","2,6",262151,None,-,-,4 septembre 2020,2h 14min
+The Christmas Set Up,"3,2",--,285688,None,-,-,9 novembre 2021,1h 25min
+The Secret: Dare to Dream,"3,3",--,273783,None,-,-,3 septembre 2020,1h 43min
+The Midnight Sky,"2,5","2,4",275220,None,-,-,23 décembre 2020,2h 02min
+A Timeless Christmas,"3,6",--,297351,None,-,-,1 novembre 2021,1h 24min
+Greenland,"2,9","3,1",264720,576 018,-,153322,5 août 2020,2h 00min
+I Still Believe,"3,2",--,271592,9 103 614,-,-,4 juin 2020,1h 55min
+Too Close for Christmas,"3,0",--,288067,None,-,-,5 novembre 2021,1h 28min
+The New Mutants,"2,3","2,1",237864,22 721 526,-,152655,26 août 2020,1h 33min
+The Postcard Killings,"2,6",--,245066,None,-,-,13 octobre 2020,1h 40min
+The Christmas Sitters,"2,8",--,297887,None,-,-,2 novembre 2021,1h 30min
+Love And Monsters,"3,2","3,3",209011,None,-,-,16 octobre 2020,1h 49min
+Trolls World Tour,"2,8","2,5",251303,1 038 565,-,153068,14 octobre 2020,1h 34min
+Rebecca,"2,7","3,0",203393,None,-,-,21 octobre 2020,2h 02min
+Christmas Ever After,"2,9",--,285692,None,-,-,17 novembre 2021,1h 27min
+Jingle Jangle: A Christmas Journey,"3,3",--,261326,None,-,-,14 novembre 2020,2h 02min
+The Craft: Legacy,"2,0","1,7",238318,None,-,153789,28 octobre 2020,1h 35min
+First Cow,"4,4","3,9",269258,105 803,-,155734,9 juillet 2021,2h 02min
+Spenser Confidential,"3,3","3,0",265746,None,-,-,10 avril 2020,1h 50min
+The Sound of Philadelphia,"3,4","2,5",264525,22 796,-,150519,26 mai 2021,1h 30min
+Resistance,"3,8",--,74720,None,-,-,25 novembre 2020,2h 02min
+Picture Perfect Royal Christmas,"3,0",--,297366,None,-,-,2 novembre 2021,1h 30min
+Dashing Home for Christmas,"3,0",--,299349,None,-,-,27 décembre 2021,1h 24min
+Project Christmas Wish,"3,1",--,297616,None,-,-,10 novembre 2021,1h 25min
+Monster Hunter,"2,0","1,8",212776,11 881 895,-,-,13 avril 2021,1h 43min
+Hamilton,"4,3",--,253979,None,-,-,3 juillet 2020,2h 40min
+Meet Me at Christmas,"2,9",--,297620,None,-,-,12 novembre 2021,1h 23min
+Alone,"2,7",--,261168,None,-,-,1 février 2016,1h 38min
+A Soldier's Revenge,"2,2",--,282279,None,-,-,17 avril 2023,
+Christmas Tree Lane,"2,7",--,297811,None,-,-,15 novembre 2021,1h 24min
+Minari,"3,9","3,6",275596,59 824,-,-,23 juin 2021,1h 56min
+Antebellum,"3,1","2,8",275832,263 184,-,152627,9 septembre 2020,1h 46min
+The Boy Behind the Door,"1,7",--,293197,None,-,-,3 janvier 2022,1h 28min
+Bad Boys For Life,"2,4","3,3",172048,204 294 609,-,152193,22 janvier 2020,2h 04min
+The Christmas High Note,"2,5",--,299126,None,-,-,20 décembre 2021,1h 25min
+Hillbilly Elegy,"3,3","3,7",255411,None,-,-,24 novembre 2020,1h 56min
+Project Power,"2,6","2,8",268042,None,-,-,15 août 2020,1h 51min
+The Princess Switch 2: Switched Again,"2,6",--,278531,None,-,-,21 novembre 2020,1h 36min
+Words On Bathroom Walls,"3,7",--,264174,None,-,-,14 février 2021,1h 55min
+Fantasy Island,"1,7","1,8",128742,24 056 031,-,152382,12 février 2020,1h 50min
+Die Hart,"1,5",--,312868,None,-,-,24 février 2023,1h 18min
+On the 12th date of Christmas,"3,0",--,297812,None,-,-,16 novembre 2021,1h 24min
+The Dry,"3,5",--,270075,None,-,-,13 octobre 2021,1h 57min
+A Taste of Christmas,"2,6",--,297886,None,-,-,2 novembre 2021,1h 31min
+Five Star Christmas,"3,1",--,296919,None,-,-,13 décembre 2021,1h 24min
+The Babysitter: Killer Queen,"2,5",--,276506,None,-,-,10 septembre 2020,1h 41min
+All the Bright Places,"3,6",--,239793,None,-,-,10 avril 2020,1h 47min
+Brahms: The Boy II,"2,1","2,2",268927,9 770 161,-,152375,26 février 2020,1h 27min
+Shiva Baby,"3,5",--,285305,None,-,-,11 juin 2021,1h 17min
+Waves,"2,8","3,7",265900,2 304,-,152373,29 janvier 2020,2h 17min
+Fatale,"2,2",--,266845,5 239 520,-,-,17 juin 2021,1h 42min
+USS Christmas,"2,8",--,298105,None,-,-,25 novembre 2021,1h 24min
+No Sudden Move,"4,0","2,9",279217,None,-,-,8 septembre 2021,1h 56min
+Capone,"1,8",--,251401,None,-,-,15 octobre 2020,1h 44min
+The King Of Staten Island,"3,8","3,8",271357,34 814,-,153160,22 juillet 2020,2h 17min
+A Fall from Grace,"2,9",--,279318,None,-,-,26 juin 2020,2h 00min
+Over the Moon,"3,3",--,262477,None,-,-,23 septembre 2021,1h 35min
+Ammonite,"3,7","3,3",270485,None,-,-,5 octobre 2021,1h 58min
+The Night,"1,7",--,285245,26 114,-,-,19 mai 2021,1h 45min
+Let Him Go,"2,7","3,2",271917,8 736 335,-,154228,16 juin 2021,1h 55min
+Honest Thief,"2,3","2,7",268631,13 010 569,-,153761,14 octobre 2020,1h 38min
+The World To Come,"3,0",--,285494,None,-,-,6 juin 2021,1h 38min
+The Silencing,"3,2",--,264617,None,-,-,3 novembre 2020,1h 30min
+Lost Girls,"2,6",--,253821,None,-,-,24 octobre 2022,1h 35min
+Minamata,"3,9",--,268923,None,-,-,20 octobre 2021,1h 55min
+Respect,"2,6","3,6",262185,15 729 378,-,-,8 septembre 2021,2h 26min
+2 Hearts,"3,2",--,283597,565 000,-,-,7 février 2021,1h 46min
+Chocolate Covered Christmas,"2,5",--,299978,None,-,-,1 décembre 2021,1h 24min
+Château Christmas,"3,2",--,298106,None,-,-,26 novembre 2021,1h 24min
+The Last Full Measure,"3,7",--,52576,None,-,-,3 août 2020,1h 55min
+Bloodshot,"1,5","2,5",204239,9 176 695,-,152451,26 mars 2020,1h 50min
+Proximity,"2,1",--,282216,None,-,-,25 octobre 2021,1h 59min
+An American Pickle,"2,3",--,282363,None,-,-,10 décembre 2021,1h 29min
+The Last Thing He Wanted,"1,7",--,259428,None,-,-,28 avril 2020,1h 55min
+We Can Be Heroes,"1,8","1,7",276644,None,-,-,25 décembre 2020,1h 40min
+A Glenbrooke Christmas,"3,0",--,296322,None,-,-,4 novembre 2021,1h 28min
+Wendy,"3,3","2,6",223801,10 362,-,154151,23 juin 2021,1h 52min
+Dinner in America,"3,4",--,279733,None,-,-,15 septembre 2022,1h 48min
+The Croods: A New Age,"3,5","3,3",220796,55 244 578,-,154181,7 juillet 2021,1h 36min
+The United States Vs. Billie Holiday,"3,4","3,2",265425,78 776,-,-,2 juin 2021,2h 08min
+Archive,"3,0",--,284382,None,-,-,3 février 2021,1h 49min
+Clouds,"4,2",--,244825,None,-,-,21 octobre 2020,2h 01min
+The Secret Garden,"2,5",--,248084,None,-,152634,22 juillet 2022,1h 40min
+The Outpost,"3,3",--,229918,None,-,-,18 novembre 2020,2h 04min
+A California Christmas,"3,0",--,288525,None,-,-,3 septembre 2021,1h 46min
+Waiting For The Barbarians,"2,7",--,251126,None,-,-,30 août 2020,1h 54min
+Borat Subsequent Moviefilm: Delivery of Prodigious Bribe To American Regime For Make Benefit Once Glorious Nation of Kazakhstan,"2,3","2,7",286321,None,-,-,23 octobre 2020,1h 36min
+The War with Grandpa,"1,9","2,1",248196,17 964 819,-,153714,7 octobre 2020,1h 38min
+The Angel Tree,"3,4",--,298877,None,-,-,15 décembre 2021,1h 26min
+Koati,"2,7","2,8",285301,156 957,-,157743,21 septembre 2022,1h 32min
+A Nashville Christmas Carol,"2,9",--,297618,None,-,-,11 novembre 2021,1h 24min
+American Pie Presents: Girls' Rules,"1,7",--,285853,None,-,-,1 novembre 2020,1h 35min
+Tesla,"1,7",--,230980,None,-,-,21 août 2020,1h 42min
+Legionnaire's Trail,"1,6",--,282005,None,-,-,9 septembre 2021,1h 36min
+Irresistible,"3,3","2,3",268373,12 350,-,153110,1 juillet 2020,1h 43min
+Freaky,"2,9","2,7",276909,8 511 675,-,153965,23 juin 2021,1h 42min
+Scoob!,"2,5","2,5",223543,850 000,-,153090,8 juillet 2020,1h 34min
+Da 5 Bloods,"3,2","2,8",271699,None,-,-,13 juin 2020,2h 35min
+The Christmas Project Reunion,"2,7",--,297883,None,-,-,2 novembre 2021,1h 27min
+Books Of Blood,"2,7",--,279019,None,-,-,29 octobre 2021,1h 47min
+Eurovision Song Contest: The Story Of Fire Saga,"3,1",--,265568,None,-,-,27 juin 2020,2h 00min
+Alone,"2,0",--,278470,None,-,-,14 septembre 2021,1h 32min
+Most Dangerous Game,"2,6",--,285151,None,-,-,26 septembre 2021,2h 30min
+The Grudge,"2,0","1,5",227834,11 404 113,-,152178,15 janvier 2020,1h 34min
+Godmothered,"2,7",--,280343,None,-,-,11 janvier 2021,1h 50min
+Girl,"2,0",--,287550,None,-,-,30 mai 2021,1h 32min
+The Last Days of American Crime,"1,7","1,6",175621,None,-,-,5 juin 2020,2h 28min
+Chemical Hearts,"3,4",--,248538,None,-,-,21 août 2020,1h 33min
+Initiation,"1,5",--,291512,None,-,-,1 juillet 2021,1h 36min
+Infamous,"1,8",--,271502,None,-,-,13 septembre 2021,1h 40min
+Ma Rainey’s Black Bottom,"3,8","3,0",275143,None,-,-,18 décembre 2020,1h 34min
+Operation Christmas Drop,"2,6",--,274802,None,-,-,5 novembre 2020,1h 35min
+Max Winslow And The House Of Secrets,"1,9",--,280944,None,-,-,1 octobre 2020,1h 38min
+Uncorked,"2,8",--,269425,None,-,-,27 mars 2020,1h 44min
+Christmas by Chance,"2,5",--,288831,None,-,-,31 décembre 2020,1h 30min
+The Half Of It,"3,4",--,274978,None,-,-,1 mai 2020,1h 44min
+Follow Me,"2,1",--,267774,None,-,-,6 janvier 2021,1h 32min
+Uncle Frank,"3,2","3,6",279630,None,-,-,25 novembre 2020,1h 35min
+Gretel And Hansel,"3,0",--,266889,11 604 572,-,-,29 mai 2020,1h 27min
+A Nice Girl Like You,"2,1",--,269127,None,-,-,3 février 2021,1h 34min
+Christmas in Evergreen: Bells Are Ringing,"2,4",--,298878,None,-,-,16 décembre 2021,1h 24min
+Dangerous Lies,"2,3",--,273369,None,-,-,30 avril 2020,1h 36min
+Mortal,"3,2",--,280278,None,-,-,27 août 2020,1h 40min
+The Wrong Missy,"2,7","2,3",272213,None,-,-,14 mai 2020,1h 29min
+Beneath Us,"2,2",--,280663,None,-,-,4 juillet 2019,1h 26min
+Kajillionaire,"3,7","2,9",263390,31 036,-,153370,30 septembre 2020,1h 44min
+The Owners,"2,2",--,274627,None,-,-,3 mai 2023,1h 32min
+The Comeback Trail,"3,0","2,5",274177,None,-,-,22 juillet 2021,1h 45min
+Winter in Vail,"3,4",--,289466,None,-,-,10 mars 2020,1h 24min
+Force Of Nature,"2,3","1,7",274141,None,-,-,25 septembre 2020,1h 39min
+The Debt Collector 2,"2,6",--,281868,None,-,-,11 septembre 2019,1h 37min
+A Welcome Home Christmas,"3,2",--,297623,None,-,-,11 novembre 2021,1h 28min
+Never Kiss a Man in a Christmas Sweater,"3,0",--,297873,None,-,-,2 novembre 2021,1h 21min
+The Last Shift,"2,2",--,275776,None,-,-,28 décembre 2020,1h 30min
+Shadow in the Cloud,"4,0","1,8",271379,None,-,-,15 avril 2021,1h 23min
+A Christmas Break,"2,6",--,288656,None,-,-,8 août 2018,1h 30min
+Black Box,"2,6",--,285860,None,-,-,6 octobre 2020,1h 40min
+Centigrade,"1,7",--,282125,None,-,-,16 mars 2021,1h 29min
+Red Stone,"2,4",--,284695,None,-,-,2 mars 2023,1h 37min
+Homemade Christmas,"2,5",--,288655,None,-,-,22 décembre 2020,1h 25min
+Crisis,"2,7",--,271574,360 462,-,-,11 août 2021,1h 58min
+Christmas Unwrapped,"2,5",--,285690,None,-,-,30 novembre 2020,1h 27min
+The Tax Collector,"1,9",--,265659,None,-,-,24 novembre 2020,1h 35min
+The Quarry,"2,2",--,281086,None,-,-,17 mars 2021,1h 38min
+I Am Lisa,"1,8",--,286786,None,-,-,22 septembre 2022,1h 32min
+Every Breath You Take,"3,0","2,4",278647,None,-,-,3 juin 2021,1h 50min
+Hard Kill,"1,0",--,281374,None,-,-,11 mars 2020,1h 38min
+Black Beauty,"3,6",--,274079,None,-,-,29 décembre 2020,1h 50min
+All My Life,"3,0",--,277247,828 565,-,154244,2 juin 2021,1h 33min
+Never Rarely Sometimes Always,"3,4","3,5",273487,17 988,-,153290,19 août 2020,1h 42min
+The Prom,"3,1","2,8",275230,None,-,-,11 décembre 2020,2h 11min
+Christmas by Starlight,"3,1",--,297615,None,-,-,8 novembre 2021,1h 24min
+Feel the Beat,"3,4",--,275949,None,-,-,21 juin 2020,1h 47min
+Joe Bell,"2,9",--,273446,None,-,-,9 janvier 2022,1h 33min
+A Christmas Exchange,"3,1",--,297815,None,-,-,18 novembre 2021,1h 27min
+To All The Boys: P.S. I Still Love You,"2,6","2,6",269977,None,-,-,10 avril 2020,1h 42min
+Time for Us to Come Home for Christmas,"3,3",--,298580,None,-,-,9 décembre 2021,1h 24min
+Merry Liddle Christmas Wedding,"3,0",--,309621,None,-,-,21 octobre 2022,1h 23min
+The Assistant,"2,7",--,270435,None,-,-,26 avril 2022,1h 28min
+Honeydew,"2,3",--,287709,None,-,-,13 juillet 2021,1h 47min
+The Doorman,"1,8",--,251813,None,-,-,1 décembre 2020,1h 37min
+Deep Blue Sea 3,"1,8",--,284645,None,-,-,29 juillet 2020,1h 40min
+Little Fish,"3,8",--,282101,None,-,-,9 mai 2021,1h 40min
+Relic,"3,3","2,4",268322,73 954,-,153516,7 octobre 2020,1h 29min
+A Christmas Mission,"3,0",--,298576,None,-,-,9 décembre 2021,1h 30min
+Rogue,"1,8",--,285322,None,-,-,2 mars 2021,1h 47min
+Top Gunner,"1,4",--,285221,None,-,-,21 novembre 2021,1h 24min
+Let Them All Talk,"3,7","2,2",276539,None,-,-,2 décembre 2021,1h 48min
+All Day And A Night,"3,0",--,265590,None,-,-,7 juillet 2020,2h 01min
+One Night In Miami,"3,3","3,1",275539,None,-,-,15 janvier 2021,1h 54min
+If I Only Had Christmas,"3,2",--,297626,None,-,-,12 novembre 2021,1h 24min
+Christmas with a Crown,"2,3",--,288617,None,-,-,12 décembre 2020,1h 29min
+The Killing Of Kenneth Chamberlain,"2,9",--,295283,None,-,-,5 octobre 2022,1h 23min
+A Very Country Christmas: Homecoming,"2,9",--,288805,None,-,-,3 juin 2020,1h 24min
+The Old Ways,"2,0",--,287005,None,-,-,25 août 2021,1h 30min
+Son of the South,"2,9","3,3",271550,13 885,-,-,16 mars 2022,1h 46min
+A Ring for Christmas,"2,7",--,297882,None,-,-,2 novembre 2021,1h 44min
+Hubie Halloween,"1,8",--,274680,None,-,-,8 octobre 2020,1h 42min
+Spontaneous,"2,6",--,247970,None,-,-,10 décembre 2020,1h 41min
+The Boys In The Band,"2,8",--,273577,None,-,-,30 septembre 2020,2h 01min
+I’m Your Woman,"2,7",--,273856,None,-,-,11 décembre 2020,2h 00min
+The Souvenir - Part II,"4,3","3,8",256403,18 498,-,-,2 février 2022,1h 48min
+The Sleepover,"2,1",--,276756,None,-,-,21 août 2020,1h 40min
+The Kissing Booth 2,"3,3",--,271766,None,-,-,24 juillet 2020,2h 10min
+Horse Girl,"2,3",--,279629,None,-,-,20 juillet 2021,1h 44min
+Work It,"3,3",--,273208,None,-,-,7 août 2020,1h 33min
+Christmas in the Rockies,"3,0",--,310501,None,-,-,9 novembre 2023,1h 25min
+Safety,"3,8",--,282173,None,-,-,11 décembre 2020,2h 02min
+The One and Only Ivan,"3,2",--,228233,None,-,-,11 septembre 2020,1h 35min
+Jiu Jitsu,"1,3",--,272835,None,-,-,4 décembre 2020,1h 42min
+Breaking News In Yuba County,"2,3",--,269319,None,-,-,13 juillet 2021,1h 36min
+Bloody Hell,"2,6",--,285324,35 437,-,-,4 novembre 2021,1h 35min
+Unlocking Christmas,"3,2",--,297367,None,-,-,4 novembre 2021,1h 25min
+Meteor Moon,"1,5",--,288884,None,-,-,22 juin 2022,1h 28min
+The Vanished,"2,4",--,285325,None,-,-,1 juin 2021,1h 55min
+The Stylist,"1,9",--,289247,None,-,-,11 novembre 2021,1h 44min
+The Water Man,"2,3",--,238540,263 773,-,-,9 juillet 2021,1h 32min
+The Christmas House,"3,2",--,286690,None,-,-,18 novembre 2021,1h 30min
+The Spongebob Movie: Sponge on the Run,"3,0","2,7",242955,4 241 103,-,-,3 septembre 2021,1h 31min
+Upside-Down Magic,"2,2",--,289035,None,-,-,20 août 2021,1h 36min
+Fatal Affair,"2,0",--,277792,None,-,-,17 juillet 2020,1h 29min
+V.C. Andrews' Ruby,"3,2",--,286296,None,-,-,4 octobre 2021,1h 30min
+Smiley Face Killers,"1,3",--,286910,None,-,-,16 décembre 2021,1h 37min
+Superintelligence,"2,1",--,257735,None,-,-,1 novembre 2021,1h 46min
+Run Hide Fight,"3,0",--,285146,None,-,-,4 août 2021,1h 49min
+Sightless,"2,5",--,286897,None,-,-,1 mai 2021,1h 29min
+Horizon Line,"2,0","1,6",271454,None,-,-,2 février 2021,1h 32min
+Nine Days,"3,3",--,49021,None,-,-,27 février 2022,2h 04min
+Murder Manual,"2,1",--,283436,None,-,-,14 avril 2022,1h 31min
+Nocturne,"2,1",--,285863,None,-,-,13 octobre 2020,1h 30min
+Lost Girls And Love Hotels,"1,8",--,176475,None,-,-,28 juillet 2021,1h 37min
+Stardust,"1,5",--,271427,None,-,-,4 février 2022,1h 44min
+The Secret Society of Second-Born Royals,"2,4",--,274161,None,-,-,25 septembre 2020,1h 39min
+The Stand In,"1,7",--,262377,None,-,-,12 août 2021,1h 41min
+Black Is King,"3,4",--,284935,None,-,-,31 juillet 2020,1h 25min
+Concrete Cowboy,"3,2","2,9",266827,None,-,-,2 avril 2021,1h 51min
+De Oost,"3,0",--,279780,None,-,-,4 février 2022,2h 17min
+Survive The Night,"1,4",--,274112,None,-,-,1 juillet 2020,1h 29min
+The Turning,"1,6",--,258623,11 666 465,-,-,30 juin 2020,1h 34min
+A Call to Spy,"3,5",--,285388,None,-,-,15 août 2021,2h 03min
+Monster Hunters,"2,1",--,286054,None,-,-,24 mai 2022,1h 28min
+Timecrafters: The Treasure of Pirate's Cove,"1,9",--,287186,None,-,-,8 décembre 2021,1h 45min
+Deliver by Christmas,"2,9",--,288808,None,-,-,29 décembre 2020,1h 24min
+Waiting for Anya,"2,4",--,263662,None,-,-,14 juillet 2020,1h 49min
+Dream Horse,"2,7","2,4",272586,10 378,-,-,4 août 2021,1h 53min
+Cross Country Christmas,"3,1",--,297816,None,-,-,19 novembre 2021,1h 23min
+Stars Fell On Alabama,"2,7",--,288062,None,-,-,2 juillet 2021,
+One Royal Holiday,"3,2",--,297356,None,-,-,3 novembre 2021,1h 25min
+Mainstream,"2,4",--,269152,36 514,-,-,28 novembre 2021,1h 40min
+"Love, Guaranteed","2,6",--,278278,None,-,-,4 septembre 2020,1h 30min
+Swept Up By Christmas,"2,7",--,297813,None,-,-,19 novembre 2021,1h 24min
+Bill & Ted Face The Music,"1,7",--,204380,2 774 636,-,-,28 octobre 2020,1h 32min
+A Babysitter's Guide to Monster Hunting,"2,3",--,277275,None,-,-,15 octobre 2020,1h 34min
+Breach,"1,1",--,281143,None,-,-,18 mars 2021,1h 32min
+Summertime,"3,1","3,8",282213,7 812,-,-,15 septembre 2021,1h 35min
+The Big Ugly,"1,8",--,284321,None,-,-,5 mai 2021,1h 47min
+The Block Island Sound,"3,3","1,9",264667,None,-,-,11 mars 2021,1h 37min
+Friendsgiving,"1,7",--,264856,None,-,-,25 novembre 2020,1h 35min
+Legacy Of Lies,"2,0",--,283244,None,-,-,30 novembre 2020,1h 41min
+Miraculous World: New York – United HeroeZ,"3,0",--,285356,None,-,-,26 septembre 2020,0h 55min
+Rushed,"2,1",--,294527,None,-,-,12 janvier 2023,
+Feliz NaviDAD,"2,8",--,44797,None,-,-,5 novembre 2021,1h 27min
+The Wolf of Snow Hollow,"2,6",--,140318,None,-,-,4 décembre 2020,1h 23min
+Beaus of Holly,"2,7",--,298928,None,-,-,28 novembre 2021,1h 28min
+The Binge,"3,0",--,277503,None,-,-,23 septembre 2022,1h 38min
+Cicada,"3,3",--,286974,None,-,-,16 mars 2022,1h 36min
+Christmas in Vienna,"2,6",--,288568,None,-,-,17 décembre 2020,1h 30min
+Minor Premise,"2,4",--,288081,None,-,-,6 avril 2022,1h 35min
+Sylvie’s Love,"3,3",--,272015,None,-,-,23 décembre 2020,1h 54min
+Spell,"2,3",--,276096,None,-,-,4 mars 2021,1h 32min
+Apocalypse Of Ice,"1,4",--,286221,None,-,-,2 février 2022,1h 29min
+Superman: Red Son,"3,1",--,257202,None,-,-,17 mars 2020,1h 22min
+A New York Christmas Wedding,"3,1",--,287279,None,-,-,1 novembre 2020,1h 28min
+"A Godwink Christmas: Second Chance, First Love","3,1",--,298875,None,-,-,14 décembre 2021,1h 25min
+The High Note,"2,5","2,3",274394,34 071,-,153161,14 juillet 2020,1h 54min
+Altered Carbon: Resleeved,"3,1",--,281760,None,-,-,19 mars 2020,1h 14min
+Blindfire,"2,5",--,287164,None,-,-,8 juillet 2021,1h 23min
+Really Love,"2,7",--,267237,None,-,-,25 août 2021,
+Four Good Days,"3,5",--,274347,623 501,-,-,5 septembre 2021,1h 40min
+Sweet autumn,"3,1",--,297370,None,-,-,25 octobre 2021,1h 34min
+My Christmas Wish,"3,1",--,288654,None,-,-,21 décembre 2020,1h 30min
+The Photograph,"3,0",--,272766,17 630 295,-,-,31 août 2020,1h 47min
+Arkansas,"2,4",--,268801,None,-,-,30 septembre 2020,1h 55min
+Desperados,"2,3",--,272768,None,-,-,26 septembre 2020,1h 45min
+Dragonheart: Vengeance,"3,1",--,280550,None,-,-,1 avril 2020,1h 37min
+The Christmas Yule Blog,"3,0",--,288809,None,-,-,29 décembre 2020,1h 27min
+The Adventures of Rufus: The Fantastic Pet,"2,1",--,285708,None,-,-,17 juin 2020,1h 22min
+Residue,"3,7","3,4",285711,2 395,-,154844,5 janvier 2022,1h 30min
+Love in the Forecast,"2,5",--,291839,None,-,-,27 avril 2021,1h 23min
+Unfollower,"2,0",--,317059,None,-,-,9 juin 2023,1h 29min
+Sniper: Assassin's End,"2,3",--,282609,None,-,-,12 août 2020,1h 39min
+The Christmas Bow,"2,9",--,297881,None,-,-,3 décembre 2021,1h 23min
+The Christmas Ring,"2,7",--,298098,None,-,-,23 novembre 2021,1h 24min
+Percy,"3,2",--,267653,None,-,-,17 octobre 2021,1h 40min
+Unbreakable Kimmy Schmidt: Kimmy vs the Reverend,"2,9",--,282357,None,-,-,6 août 2020,1h 20min
+Paydirt,"2,4",--,284929,None,-,-,25 février 2021,1h 25min
+The F**k-It List,"2,4",--,285143,None,-,-,23 octobre 2020,1h 43min
+Last Moment Of Clarity,"1,8",--,262801,None,-,-,19 janvier 2021,1h 31min
+The Devil Has a Name,"2,2",--,262281,None,-,-,9 juin 2021,1h 37min
+"Love, Weddings & Other Disasters","1,9",--,276907,None,-,-,13 février 2022,1h 36min
+Claw,"1,9",--,285936,None,-,-,14 juin 2023,
+Fast And Fierce: Death Race,"1,5",--,284068,None,-,-,19 août 2021,1h 25min
+The Lost Husband,"2,7",--,268441,None,-,-,7 septembre 2020,1h 55min
+Justice League Dark: Apokolips War,"3,7",--,284942,None,-,-,3 juin 2020,1h 30min
+Monday,"3,2",--,267259,30 932,-,-,25 avril 2022,1h 56min
+The Orchard,"1,3",--,280199,None,-,-,17 décembre 2021,1h 22min
+Welcome To Sudden Death,"1,9",--,276628,None,-,-,21 octobre 2020,1h 18min
+The Works And Days (Of Tayoko Shiojiri In The Shiotani Basin) Part 1,"4,4","3,8",280576,1 363,-,-,22 juin 2022,3h 33min
+Evil Eye,"1,7",--,285862,None,-,-,13 octobre 2020,1h 30min
+Shark Season,"1,6",--,286206,None,-,-,20 avril 2023,1h 27min
+The 2nd,"1,4",--,285257,None,-,-,13 avril 2021,1h 33min
+Equal Standard,"2,6",--,291949,15 938,-,-,29 janvier 2023,1h 41min
+The Lovebirds,"2,2",--,267358,None,-,-,22 mai 2020,1h 26min
+Money Plane,"1,5",--,279910,None,-,-,17 décembre 2020,1h 26min
+Mortal Kombat Legends : Scorpion's Revenge,"3,6",--,280560,None,-,-,26 mai 2020,1h 20min
+Good morning Christmas!,"2,9",--,298391,None,-,-,1 décembre 2021,1h 24min
+Body Brokers,"2,9",--,276014,None,-,-,10 octobre 2021,1h 51min
+The Broken Hearts Gallery,"3,1",--,251294,3 238 423,-,-,23 novembre 2020,1h 53min
+Off the Grid,"3,2",--,295025,None,-,-,10 mai 2021,1h 26min
+Coffee & Kareem,"2,0",--,272387,None,-,-,1 janvier 2020,1h 28min
+Dreamkatcher,"1,4",--,275635,None,-,-,10 août 2020,1h 25min
+Dino Dana: The Movie,"2,7",--,280539,None,-,-,27 décembre 2020,1h 25min
+Lorelei,"3,3",--,282102,None,-,-,6 avril 2022,1h 51min
+Archenemy,"2,0",--,281408,101 360,-,-,6 juillet 2021,1h 30min
+Love is Love is Love,"2,0",--,285304,None,-,-,1 juin 2022,1h 31min
+Dolly Parton’s Christmas on the Square,"2,7",--,286795,None,-,-,22 novembre 2020,1h 38min
+Dinosaur World,"1,5",--,303903,None,-,-,9 juin 2022,1h 18min
+Wedding Every Weekend,"3,1",--,289467,None,-,-,26 janvier 2021,1h 24min
+Critical Thinking,"2,7",--,270388,None,-,-,27 avril 2021,1h 57min
+Z-O-M-B-I-E-S 2,"3,4",--,286868,None,-,-,20 octobre 2020,1h 24min
+All Together Now,"3,0",--,246114,None,-,-,29 août 2020,1h 32min
+Timmy Failure: Mistakes Were Made,"2,2",--,255805,None,-,-,25 avril 2020,1h 35min
+Barb & Star Go to Vista Del Mar,"2,0",--,273612,None,-,-,7 mai 2021,1h 46min
+VFW,"2,1",--,272210,None,-,-,4 novembre 2020,1h 32min
+Mariah Carey’s Magical Christmas Special,"3,1",--,281418,None,-,-,4 décembre 2020,0h 43min
+Cyst,"1,4",--,287484,None,-,-,6 octobre 2021,1h 13min
+A Christmas Tree Grows in Colorado,"2,7",--,288810,None,-,-,30 décembre 2020,1h 30min
+Chick Fight,"2,4",--,277046,None,-,-,11 février 2021,1h 37min
+Slapface,"2,9",--,276816,None,-,-,11 juillet 2022,1h 26min
+Unearth,"1,3",--,286425,None,-,-,18 août 2021,1h 34min
+Disturbing The Peace,"1,3",--,264730,None,-,-,18 février 2020,1h 31min
+The Main Event,"2,3",--,281993,None,-,-,10 avril 2020,1h 41min
+Let Us In,"1,8",--,292914,None,-,-,14 janvier 2022,1h 19min
+Sublet,"3,2",--,279097,None,-,2021002967,22 novembre 2022,1h 29min
+Christmas On Ice,"2,7",--,285849,None,-,-,25 novembre 2020,1h 27min
+The Last Thing Mary Saw,"2,5",--,279718,None,-,-,7 septembre 2022,1h 28min
+Looking for Mr. Wonderful,"2,7",--,287236,None,-,-,6 août 2021,2h 00min
+Matching Hearts,"3,1",--,289974,None,-,-,12 février 2021,1h 24min
+Sweet Thing,"3,3","3,8",280120,2 917,-,-,21 juillet 2021,1h 31min
+Haunting Of The Mary Celeste,"1,8",--,288520,None,-,-,23 janvier 2023,1h 14min
+Asteroid-a-Geddon,"1,5",--,288359,None,-,-,13 mai 2022,1h 27min
+Cowboys,"3,2",--,281574,None,-,-,17 septembre 2022,1h 23min
+Vampire Virus,"2,2",--,286429,None,-,-,17 octobre 2023,1h 20min
+Deathstroke: Knights & Dragons (The Movie),"2,7",--,304864,None,-,-,18 août 2020,1h 27min
+Wander Darkly,"2,6",--,266668,None,-,-,1 avril 2021,1h 41min
+Half Brothers,"2,2",--,277698,1 807 430,-,-,30 septembre 2021,1h 36min
+"Barbie: Big City, Big Dreams","1,9",--,294551,850,-,-,8 septembre 2021,1h 00min
+Simmer,"3,0",--,302779,None,-,-,23 février 2023,1h 35min
+Like a Boss,"1,7",--,264986,17 123 998,-,-,7 mai 2020,1h 24min
+Allagash,"2,0",--,269378,None,-,-,27 avril 2022,1h 30min
+Tremors: Shrieker Island,"2,2",--,286072,None,-,-,1 décembre 2020,1h 43min
+"Happy Halloween, Scooby-Doo !","2,7",--,288065,None,-,-,6 octobre 2020,1h 11min
+Christmas on the Vine,"2,6",--,310806,None,-,-,6 décembre 2021,1h 27min
+Collision Earth,"1,4",--,284141,None,-,-,1 décembre 2023,1h 24min
+Vampires Vs. The Bronx,"2,0",--,267033,None,-,-,15 septembre 2021,1h 25min
+Full Out 2: You Got This!,"2,4",--,289210,None,-,-,24 octobre 2022,1h 30min
+Psycho yoga instructor,"2,5",--,291575,None,-,-,1 avril 2021,1h 28min
+Under Ocean With Dory,"2,1",--,289002,None,-,-,26 juin 2022,3h 01min
+Crafting Christmas,"2,6",--,287514,None,-,-,16 novembre 2020,1h 30min
+Bad Hair,"2,5",--,258251,None,-,-,15 février 2022,1h 42min
+Malibu Rescue : The Next Wave,"2,5",--,285362,None,-,-,4 août 2020,1h 10min
+A Beautiful Place to Die: A Martha's Vineyard Mystery,"3,1",--,291505,None,-,-,8 juin 2020,1h 25min
+Together Together,"2,9",--,288918,None,-,-,11 juillet 2021,1h 30min
+Holly Slept Over,"3,0",--,262535,None,-,-,2 mars 2020,1h 27min
+Carmen Sandiego,"3,8",--,263668,None,-,-,10 mars 2020,
+Crossword Mysteries : Abracadaver,"2,7",--,287266,None,-,-,9 avril 2021,1h 24min
+Farewell Amor,"3,5",--,279734,None,-,-,14 juin 2022,1h 35min
+Nowhere,"2,8",--,290621,None,-,-,18 mars 2021,1h 27min
+Luz,"3,1",--,313960,None,-,-,13 avril 2023,1h 58min
+My Heart Can't Beat Unless You Tell It To,"2,7",--,282113,None,-,-,10 mars 2022,1h 29min
+PVT Chat,"3,1",--,288379,None,-,-,18 août 2021,1h 26min
+The 40-Year-Old Version,"2,4",--,276203,None,-,-,9 octobre 2020,2h 09min
+Finding Love In Mountain View,"2,4",--,285785,None,-,-,30 septembre 2020,1h 33min
+Echo Boomers,"2,2",--,286377,None,-,-,31 janvier 2021,1h 38min
+Amazing Winter Romance,"3,3",--,289036,None,-,-,4 janvier 2021,1h 25min
+Breaking Fast,"3,2",--,287066,None,-,-,19 octobre 2022,1h 32min
+Brightheart,"2,3",--,293746,None,-,-,15 février 2021,1h 25min
+Superman: Man Of Tomorrow,"3,2",--,283668,None,-,-,7 septembre 2020,1h 23min
+Uncle Peckerhead,"2,7",--,285239,None,-,-,28 octobre 2021,1h 33min
+The Gourmet Detective: Roux the Day,"3,1",--,287267,None,-,-,4 août 2021,1h 23min
+A Romance Wedding,"2,4",--,289945,None,-,-,16 mars 2021,1h 30min
+Sister of the Groom,"2,2",--,287652,None,-,-,2 décembre 2022,1h 32min
+12 Hour Shift,"2,3",--,281733,None,-,-,18 novembre 2021,1h 26min
+Love on Iceland,"3,0",--,289039,None,-,-,5 janvier 2021,1h 24min
+The Neighbor in the Window,"2,4",--,291571,None,-,-,30 mars 2021,1h 27min
+Poison Pen Pal,"3,0",--,289474,None,-,-,29 janvier 2021,1h 30min
+Nanny Danger,"2,4",--,289539,None,-,-,4 février 2021,1h 30min
+Rogue Warfare: Death Of A Nation,"1,8",--,278437,None,-,-,16 février 2020,1h 39min
+Phineas and Ferb The Movie: Candace Against the Universe,"2,7",--,276706,None,-,-,28 août 2020,
+The Secret Ingredient,"2,7",--,290056,None,-,-,22 février 2021,1h 22min
+I Carry You with Me,"2,6",--,279650,None,-,-,15 novembre 2021,1h 51min
+Death of a Telemarketer,"2,8",--,253590,None,-,-,24 janvier 2022,1h 28min
+The Magic School Bus Rides Again: Kids in Space,"2,6",--,285575,None,-,-,26 décembre 2020,0h 45min
+A Family's Nightmare,"3,0",--,289187,None,-,-,13 janvier 2021,1h 30min
+Riddled with Deceit: A Martha's Vineyard Mystery,"3,1",--,287268,None,-,-,27 juillet 2021,1h 24min
+Deadly Sugar Daddy,"2,7",--,304745,None,-,-,3 juin 2022,1h 30min
+Airliner Sky Battle,"2,5",--,287590,None,-,-,10 novembre 2023,1h 29min
+Anonymous Killers,"3,5",--,293607,None,-,-,6 octobre 2020,1h 40min
+Romance in the Air,"3,0",--,287215,None,-,-,21 juin 2021,1h 21min
+Deranged Granny,"2,7",--,289183,None,-,-,15 janvier 2021,1h 27min
+The Captive Nanny,"2,7",--,290242,None,-,-,1 mars 2021,1h 29min
+"Sincerely, Yours, Truly","2,8",--,290247,None,-,-,20 janvier 2020,1h 23min
+The Swan Princess: A Royal Wedding,"1,8",--,284740,None,-,-,2 août 2020,1h 23min
+Funny Face,"2,8",--,280555,None,-,-,1 novembre 2018,1h 35min
+Retreat to Paradise,"3,1",--,287306,None,-,-,11 mai 2021,1h 30min
+Enchantimals: Secrets of Snowy Valley,"2,8",--,288512,None,-,-,16 novembre 2022,
+Shawn Mendes: Live In Concert,"3,0",--,288632,None,-,-,24 octobre 2022,1h 28min
+LEGO DC Shazam!: Magic and Monsters,"2,7",--,288792,None,-,-,17 juin 2020,1h 21min
+Body Cam,"2,6",--,265653,None,-,-,25 août 2020,1h 32min
+Lost & Found in Rome,"2,2",--,289557,None,-,-,1 février 2021,1h 30min
+Blast Beat,"3,0",--,279731,None,-,-,20 mai 2021,1h 50min
+Secrets in the Snow,"3,0",--,289188,None,-,-,15 janvier 2021,1h 26min
+The Works And Days (Of Tayoko Shiojiri In The Shiotani Basin) Part 2,"4,4","3,6",304585,None,-,-,22 juin 2022,2h 10min
+The Works And Days (Of Tayoko Shiojiri In The Shiotani Basin) Part 3,"4,4","3,5",304587,None,-,-,22 juin 2022,2h 28min
+The Ultimate Playlist of Noise,"3,1",--,278656,None,-,-,2 décembre 2021,
+"Pretty Cheaters, Deadly Lies","2,4",--,289199,None,-,-,22 janvier 2021,1h 28min
+From the Heart,"3,0",--,288036,None,-,-,22 mars 2021,1h 34min
+Cheer Squad Secrets,"2,9",--,289532,None,-,-,1 février 2021,1h 29min
+I Do or Die - A Killer Arrangement,"2,3",--,289189,None,-,-,18 janvier 2021,1h 30min
+Tigertail,"3,1",--,267214,None,-,-,24 octobre 2022,1h 31min
+Killer Ransom,"2,8",--,285917,None,-,-,1 septembre 2020,1h 30min
+Summerland,"2,8",--,285958,None,-,-,24 août 2021,1h 20min
+We Bare Bears: The Movie,"2,9",--,293593,None,-,-,20 janvier 2021,1h 09min
+Chasing the One,"3,0",--,287212,None,-,-,2 juillet 2021,1h 30min
+An Intrusion,"2,4",--,285964,None,-,-,31 mars 2020,
+Another mother,"2,3",--,289968,None,-,-,8 février 2021,1h 29min
+"Young, Stalked and Pregnant","2,6",--,289191,None,-,-,19 janvier 2021,1h 30min
+Agrippina (Fathom) : The Metropolitan Opera,"2,4",--,273596,None,-,2019001484,29 février 2020,4h 10min
+Killer Competition,"2,9",--,289970,None,-,-,9 février 2021,1h 29min
+Forgotten Abduction,"3,1",--,289468,None,-,-,25 janvier 2021,1h 22min
+Stalker's Prey 2,"2,5",--,294967,None,-,-,1 août 2021,1h 28min
+Her Name Was Jo,"3,0",--,298124,None,-,-,8 novembre 2021,
+The Metropolitan Opera: Porgy and Bess (Fathom),"3,5",--,273597,None,-,2019001483,1 février 2020,3h 40min
+Akilla's Escape,"2,9",--,286328,None,-,-,11 octobre 2021,1h 30min
+The Magic School Bus Rides Again In The Zone,"2,5",--,288528,None,-,-,26 décembre 2020,0h 45min
+The secret life of a celebrity surrogate,"2,3",--,289470,None,-,-,26 janvier 2021,1h 26min
+Super Monsters: Santa's Super Monster Helpers,"2,8",--,287233,None,-,-,8 décembre 2020,0h 24min
+Circumstantial Pleasures,"3,0",--,293257,None,-,-,23 juin 2021,1h 05min
+Clifford The Big Red Dog,"2,4","2,5",272105,None,-,-,13 mai 2022,1h 37min
+Borrowed Time,"3,0",--,279688,None,-,-,25 mai 2021,1h 20min
