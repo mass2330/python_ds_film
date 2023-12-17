@@ -9,6 +9,9 @@ __pycache__/
 #ignorer le dossier csv_intermediaire_tmdb
 csv_intermediaire_tmdb/
 
+#code qui sont en auxiliaires pour verifier parfois 
+code_auxiliaire.py
+
 # Distribution / packaging
 .Python
 build/
