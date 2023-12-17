@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#ignorer le dossier csv_intermediaire_tmdb
+csv_intermediaire_tmdb/
+
 # Distribution / packaging
 .Python
 build/
