@@ -43,12 +43,11 @@ Les processus de récupération prennent beaucoup de temps, donc les données so
 
 - ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
 
-- ***df_critiques_modif.csv*** : la base des critiques nettoyés avec le score
     
 Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
      https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
 
-Les modèles entraînés sont également accessibles à partir de ce lien: 
+Le modèle CamemBERT entrainé est également accessible à partir de ce lien: 
     https://www.dropbox.com/scl/fi/y5ytnm1zisoko4wlghk6c/CamemBERT_critique_ac.pth?rlkey=ku711ekbmevjysjw8kgunrz1n&dl=1
 
 
