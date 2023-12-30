@@ -1,74 +1,65 @@
 # PROJET PYTHON DATA SCIENCE 
 
-Ce dépot réuni notre travail au cours de l'UE Python pour la data science enseigné à l'ENSAE (Membres : Zakaria BOULLIAIRE, Massyle DENDENE, Brian RAMESH)
+Ce dépôt réunit notre projet qui est réalisé dans le cadre pédagogique du cours de Python pour Data Science de 2A à l’ENSAE.
+(**Membres du groupe** : Zakaria BOULLIAIRE, Massyle DENDENE, Brian RAMESH)
 
-# **<span style="color: #CC146C">Analyse de sentiments sur les critiques allocine </span>** 🎥
-
-
-Ce projet est réalisé dans le cadre pédagogique du cours de Python pour Data Science de 2A à l’ENSAE.
+# **<span style="color: #CC146C">Analyse de sentiments sur les critiques allociné </span>** 🎥
 
 ## Présentation
 
+Bienvenus dans notre projet de data science dédié à la prédiction des sentiments des commentaires de films et à l'évaluation de leur impact sur la performance au box office. En effet, lorsque nous décidons de regarder un film, nous regardons souvent la note du film et très souvent les critiques associées à ce film. Cela nous permet de nous faire un premier avis et peut même parfois influencer notre approche sur le film. Les critiques sont donc des éléments clés dans l’analyse d’un film.
 
-Lorsque nous décidons de regarder un film, nous regardons souvent la note du film et même les critiques associées à ce film. Cela nous permet de nous faire un premier avis et peut même parfois influencer notre approche sur le film. Les critiques sont donc des éléments clés dans l’analyse d’un film.
+## Objectifs du Projet 
 
+L'objectif principal de ce projet est d'exploiter les techniques de traitement du langage naturel (NLP) pour développer un modèle de prédiction de sentiments capable d'analyser les réactions des spectateurs aux films, en se basant sur des données textuelles extraites de commentaires. En utilisant ces prédictions de sentiments, nous cherchons également à établir un lien avec la performance au box office des films. Cela pourrait permettre ainsi aux professionnels de l'industrie cinématographique d'avoir un aperçu préliminaire de la réception du public avant la sortie officielle.
 
-## Question et Structure 
+## Méthodologie 
 
+Le projet sera réalisé en plusieurs étapes clés qui vont structurer notre raisonnement :
 
-Ce projet essaie donc de voir si les critiques d’un film arrive à prédire la performance au box-office d’un film. Le but est donc d’analyser les sentiments que renvoient les critiques et essayer de tester le pouvoir de prédiction de cette information par la suite. 
+**1. Collecte de Données** : Issues de scrapping et d'API, les données proviennent essentiellement d'Allociné et sont completées par les données de TMDB.
+**2. Nettoyage des données** :  Nettoyage et préparation des informations sur les films mais aussi des données textuelles pour les rendre adaptées à l'analyse, en utilisant des techniques de NLP.
+**3. Modélisation/Evaluation** : Entraînement d'un modèle de machine learning pour prédire les sentiments des commentaires de films. Évaluation de la précision et de la fiabilité du modèle de prédiction de sentiments. Établissement d'une corrélation entre les prédictions de sentiments et la performance. Une diversité de modèles est utilisée (Régression Logistique, Random Forest, BERT)
 
-Notre projet s’axe autour des éléments clés de l’analyse des données : récupération et nettoyage des données, analyse visuelle et modélisation/application. Ces étapes structurent notre raisonnement et nous guideront jusqu’à la fin du projet.
+## Structure du projet  
 
+Le projet est organisé en deux notebook, chacun correspondant à une étape spécifique du projet.
+    -- Le notebook ***analyse.ipynb*** contient la partie sur la récupération et le nettoyage des données.
+    -- Le notebook ***modelisation.ipynb*** contient la partie modélisation et conclusion du projet.
 
-## Contenu 
+Les processus de récupération prennent beaucoup de temps, donc les données sont fournis de la manière suivante (*néanmoins le code pour récupérer les données est présent dans les notebook**): 
+    -- Dans le dossier ***dataframes** on retrouve : 
+        -- ***df_film_ac.csv*** : les informations des films scrappées Allociné 
+        -- ***df_tmdb.csv*** : les informations des films récupérées sur TMDB 
+        -- ***df_merged.csv*** : le merge des deux tables ci_dessus 
+        -- ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
+    
+    -- Dans un second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
+        -- https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
 
-
-Au niveau du code nous avons décidé de séparer (pour plus de lisibilité) notre rapport en deux avec :
-
-notebook final 
-Modélisation
-
-Les bases de données étant très volumineuses et les processus de récupération prenant beaucoup de temps, nous fournissons les données dans le dossier dataframes pour les informations concernant les films selon l’organisation suivante :
-
-de
-De
-De
-De
-
-La base des critiques se trouve à ce lien :
-
-Mettre le lien ici 
-
-On peut y accéder à travers le code 
-
+Les modèles entraînés sont également accessibles à : RAJOUTER OU.
 
 
-## Recommandation d'exécution
 
+## Prérequis et Recommandation d'exécution
 
-Pour effectuer le code de manière optimale, nous vous conseillons de suivre les étapes suivantes. 
+Avant de commencer, nous vous conseillons de suivre les étapes suivantes. Il est conseillé également d'appliquer le code sur SSPCloud avec un environnement avec GPU pour une optimalité dans les calculs et la modélisation.
 
 ```sh
 
-# Download repo and its dependencies 
+#Installation de l'environnement virtuel (code à appliquer sur le terminal)
+    python -m pip install virtualenv
+    python -m virtualenv .venv
+# Activation de l'environnement virtuel
+    source .venv/bin/activate
+`
+git clone https://github.com/mass2330/python_ds_film
+cd python_ds_film
 
-git clone https://github.com/TheophileBlard/french-sentiment-analysis-with-bert/
+# Pour installer les dépendance dans son environnement
 
-cd french-sentiment-analysis-with-bert
-
-pipenv install
-
-
-# Extract dataset
-
-pushd allocine_dataset && tar xvjf data.tar.bz2 && popd
-
-
-# Activate virtualenv and open-up BERT notebook
-
-pipenv shell
-
-jupyter notebook 03_bert.ipynb 
+pip install - r requirements.txt
 
 ```
+
+Nous vous souhaitons une bonne lecture. Nous sommes ouverts aux suggestions de développement des analyses plus approfondies et des modèles améliorés dans le cadre de cette étude. N'hésitez pas à nous faire part de vos retours, suggestions et contributions.
