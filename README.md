@@ -42,6 +42,8 @@ Les processus de récupération prennent beaucoup de temps, donc les données so
 - ***df_merged.csv*** : le merge des deux tables ci_dessus 
 
 - ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
+
+- ***df_critiques_modif.csv*** : la base des critiques nettoyés avec le score
     
 Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
      https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
