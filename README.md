@@ -46,7 +46,8 @@ Les processus de récupération prennent beaucoup de temps, donc les données so
 Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
      https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
 
-Les modèles entraînés sont également accessibles à : RAJOUTER OU.
+Les modèles entraînés sont également accessibles à partir de ce lien: 
+    https://www.dropbox.com/scl/fi/y5ytnm1zisoko4wlghk6c/CamemBERT_critique_ac.pth?rlkey=ku711ekbmevjysjw8kgunrz1n&dl=1
 
 
 ## Prérequis et Recommandation d'exécution
