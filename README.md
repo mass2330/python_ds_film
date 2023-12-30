@@ -27,24 +27,24 @@ Le projet sera réalisé en plusieurs étapes clés qui vont structurer notre ra
 
 Le projet est organisé en deux notebook, chacun correspondant à une étape spécifique du projet.
 
-    *Le notebook ***analyse.ipynb*** contient la partie sur la récupération et le nettoyage des données.
-    
-    *Le notebook ***modelisation.ipynb*** contient la partie modélisation et conclusion du projet.
+- Le notebook ***analyse.ipynb*** contient la partie sur la récupération et le nettoyage des données.
+
+- Le notebook ***modelisation.ipynb*** contient la partie modélisation et conclusion du projet.
 
 Les processus de récupération prennent beaucoup de temps, donc les données sont fournis de la manière suivante (*néanmoins le code pour récupérer les données est présent dans les notebook**): 
 
-    - Dans le dossier ***dataframes*** on retrouve : 
+ Dans le dossier ***dataframes*** on retrouve : 
 
-        - ***df_film_ac.csv*** : les informations des films scrappées Allociné 
+- ***df_film_ac.csv*** : les informations des films scrappées Allociné 
 
-        - ***df_tmdb.csv*** : les informations des films récupérées sur TMDB 
+- ***df_tmdb.csv*** : les informations des films récupérées sur TMDB 
 
-        - ***df_merged.csv*** : le merge des deux tables ci_dessus 
+- ***df_merged.csv*** : le merge des deux tables ci_dessus 
 
-        - ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
+- ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
     
-    - Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
-         https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
+Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
+     https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
 
 Les modèles entraînés sont également accessibles à : RAJOUTER OU.
 
