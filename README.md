@@ -72,5 +72,6 @@ cd python_ds_film
 pip install - r requirements.txt
 
 ```
+Executez d'abord le notebook analyse puis le notebook modélisation pour un bon fonctionnement.
 
 Nous vous souhaitons une bonne lecture. Nous sommes ouverts aux suggestions de développement des analyses plus approfondies et des modèles améliorés dans le cadre de cette étude. N'hésitez pas à nous faire part de vos retours, suggestions et contributions.
