@@ -18,27 +18,35 @@ L'objectif principal de ce projet est d'exploiter les techniques de traitement d
 Le projet sera réalisé en plusieurs étapes clés qui vont structurer notre raisonnement :
 
 **1. Collecte de Données** : Issues de scrapping et d'API, les données proviennent essentiellement d'Allociné et sont completées par les données de TMDB.
+
 **2. Nettoyage des données** :  Nettoyage et préparation des informations sur les films mais aussi des données textuelles pour les rendre adaptées à l'analyse, en utilisant des techniques de NLP.
+
 **3. Modélisation/Evaluation** : Entraînement d'un modèle de machine learning pour prédire les sentiments des commentaires de films. Évaluation de la précision et de la fiabilité du modèle de prédiction de sentiments. Établissement d'une corrélation entre les prédictions de sentiments et la performance. Une diversité de modèles est utilisée (Régression Logistique, Random Forest, BERT)
 
 ## Structure du projet  
 
 Le projet est organisé en deux notebook, chacun correspondant à une étape spécifique du projet.
-    -- Le notebook ***analyse.ipynb*** contient la partie sur la récupération et le nettoyage des données.
-    -- Le notebook ***modelisation.ipynb*** contient la partie modélisation et conclusion du projet.
+
+    *Le notebook ***analyse.ipynb*** contient la partie sur la récupération et le nettoyage des données.
+    
+    *Le notebook ***modelisation.ipynb*** contient la partie modélisation et conclusion du projet.
 
 Les processus de récupération prennent beaucoup de temps, donc les données sont fournis de la manière suivante (*néanmoins le code pour récupérer les données est présent dans les notebook**): 
-    -- Dans le dossier ***dataframes** on retrouve : 
-        -- ***df_film_ac.csv*** : les informations des films scrappées Allociné 
-        -- ***df_tmdb.csv*** : les informations des films récupérées sur TMDB 
-        -- ***df_merged.csv*** : le merge des deux tables ci_dessus 
-        -- ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
+
+    - Dans le dossier ***dataframes*** on retrouve : 
+
+        - ***df_film_ac.csv*** : les informations des films scrappées Allociné 
+
+        - ***df_tmdb.csv*** : les informations des films récupérées sur TMDB 
+
+        - ***df_merged.csv*** : le merge des deux tables ci_dessus 
+
+        - ***df_modified.csv*** : la version nettoyée de ***df_merged.csv***
     
-    -- Dans un second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
-        -- https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
+    - Dans second temps nous avons également la base des critiques qui est la plus volumineuse, celle-ci est accessible à ce lien : 
+         https://www.dropbox.com/scl/fi/oaj2pxpytau536krzjtqj/df_critiques.csv?rlkey=uemvi7feslmnta3mgg6ahtpen&dl=1
 
 Les modèles entraînés sont également accessibles à : RAJOUTER OU.
-
 
 
 ## Prérequis et Recommandation d'exécution
