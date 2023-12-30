@@ -68,7 +68,7 @@ cd python_ds_film
 
 # Pour installer les dépendance dans son environnement
 
-pip install - r requirements.txt
+pip install -r requirements.txt
 
 ```
 Executez d'abord le notebook analyse puis le notebook modélisation pour un bon fonctionnement.
